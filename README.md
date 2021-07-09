@@ -1,1 +1,1 @@
-README
+[Wiki](https://github.com/white0rchardpUnK/v2ray-etc/wiki) for all details.
